@@ -110,17 +110,7 @@ extension and select **Open with Live Server**.
 
 ## Deploy to Vercel
 
-1.  Push the project files to a GitHub repository.
-2.  Sign in to [Vercel](https://vercel.com/) and import the repository.
-3.  Configure the project as a static site:
-    -   **Framework Preset:** Other
-    -   **Root Directory:** `./`
-    -   **Build Command:** leave blank
-    -   **Output Directory:** `./`
-    -   **Install Command:** leave blank
-4.  Deploy the project.
-5.  Open the generated deployment URL and test the HTML page and each
-    PDF link.
+link--
 
 The file served at the root should be named `index.html` for the default
 Vercel URL to open the site directly.
